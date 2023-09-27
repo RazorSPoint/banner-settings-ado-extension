@@ -44,7 +44,7 @@
     "style-loader": "~0.23.1",
     "tfx-cli": "~0.16.0",
     "ts-loader": "~6.0.4",
-    "tslint": "^5.18.0",
+    "tslint": "^5.20.1",
     "tslint-react": "^4.1.0",
     "typescript": "^3.5.2",
     "webpack": "^4.22.0",
